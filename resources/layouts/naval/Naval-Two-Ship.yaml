@@ -10,7 +10,6 @@ groups:
       unit_classes:
         - Frigate
         - Destroyer
-        - Cruiser
         - Boat
         - Submarine
         - LandingShip
